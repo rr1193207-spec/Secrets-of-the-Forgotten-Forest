@@ -21,3 +21,4 @@
 
 ![FFFFFF](assets/Forest-fotor.png)
 
+![FFFFFF](assets/Gates_opened.jpg)
