@@ -19,4 +19,4 @@
 
 ![FFFFFF](assets/Forest_Gates.jpg)
 
-![FFFFFF](assets/Forest-fotor.png)
+![FFFFFF](assets/Forest-fotor.jpg)
