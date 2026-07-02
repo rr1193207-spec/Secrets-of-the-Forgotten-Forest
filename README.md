@@ -13,5 +13,5 @@
 
 
 
-![FFFFFF](assets/Forest_people)
+![FFFFFF](assets/Forest_people.jpg)
 
