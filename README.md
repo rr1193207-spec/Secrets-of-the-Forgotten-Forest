@@ -11,7 +11,7 @@
 
 `короткая команда или переменная`
 
-![FFFFFF](assets/Forest-fotor-2026070214123.jpeg)
+![FFFFFF](assets/Forest-fotor-2026070214123.png)
 
 ![FFFFFF](assets/Forest_people.jpg)
 
