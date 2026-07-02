@@ -11,7 +11,7 @@
 
 `короткая команда или переменная`
 
-![FFFFFF](assets/Forest-fotor.png)
+
 
 ![FFFFFF](assets/Forest_people.jpg)
 
@@ -19,3 +19,4 @@
 
 ![FFFFFF](assets/Forest_Gates.jpg)
 
+![FFFFFF](assets/Forest-fotor.png)
