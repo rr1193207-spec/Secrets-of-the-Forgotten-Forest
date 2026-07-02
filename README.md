@@ -19,5 +19,5 @@
 
 ![FFFFFF](assets/Forest_Gates.jpg)
 
-![FFFFFF](assets/Forest_fotor.png)
+![FFFFFF](assets/Forest-fotor.png)
 
