@@ -23,4 +23,4 @@
 
 ![FFFFFF](assets/get_art.jpeg)
 
-![FFFFFF](assets/.level_pass.jpg)
+![FFFFFF](assets/level_pass.jpg)
