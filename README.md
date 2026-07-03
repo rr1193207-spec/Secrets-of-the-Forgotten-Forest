@@ -15,10 +15,12 @@
 
 ![FFFFFF](assets/menu.png)
 
-![FFFFFF](assets/.jpeg)
-
-![FFFFFF](assets/.jpg)
+![FFFFFF](assets/settings.jpg)
 
 ![FFFFFF](assets/Forest-fotor.png)
 
 ![FFFFFF](assets/Gates_opened.jpg)
+
+![FFFFFF](assets/.jpg)
+
+![FFFFFF](assets/.jpg)
