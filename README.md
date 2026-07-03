@@ -13,11 +13,11 @@
 
 
 
-![FFFFFF](assets/Forest_people.jpg)
+![FFFFFF](assets/.jpg)
 
-![FFFFFF](assets/Forest_location.jpeg)
+![FFFFFF](assets/.jpeg)
 
-![FFFFFF](assets/Forest_Gates.jpg)
+![FFFFFF](assets/.jpg)
 
 ![FFFFFF](assets/Forest-fotor.png)
 
