@@ -212,3 +212,7 @@ if player.rect.colliderect(object_rect):
 **Комментарий:**
 не смог сделать: Палитра и настроение и Функции-обёртки.
 нужна помощь с дополнением данных пропусков
+
+![FFFFFF](assets/menu.png)              ![FFFFFF](assets/settings.jpg)            ![FFFFFF](assets/Forest-fotor.png)
+
+![FFFFFF](assets/Gates_opened.jpg)      ![FFFFFF](assets/get_art.jpeg)            ![FFFFFF](assets/level_pass.jpg)
