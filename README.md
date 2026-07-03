@@ -21,6 +21,6 @@
 
 ![FFFFFF](assets/Gates_opened.jpg)
 
-![FFFFFF](assets/gat_art.jpeg)
+![FFFFFF](assets/get_art.jpeg)
 
-![FFFFFF](assets/.level_passjpg)
+![FFFFFF](assets/.level_pass.jpg)
